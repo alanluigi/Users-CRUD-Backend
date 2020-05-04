@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Teste Maroto",
+      "email": "teste@teste.com.br",
+      "id": 1
+    },
+    {
+      "name": "Teste de Sagacidade",
+      "email": "teste@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Teste de Malemolência",
+      "email": "malemolente@gmail.com",
+      "id": 3
+    }
+  ]
+}
